@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>The Lion and the Mouse</item>
+        <item>Count Wisely</item>
+        <item>The Boy Who Cried Wolf</item>
+        <item>The Fox and the Stork</item>
+        <item>The Golden Touch</item>
+        <item>The Milkmaid and Her Pail</item>
+        <item>When Adversity Knocks</item>
+        <item>The Proud Rose</item>
+        <item>The Tale of the Pencil</item>
+        <item>The Crystal Ball</item>
+    </string-array>
+</resources>

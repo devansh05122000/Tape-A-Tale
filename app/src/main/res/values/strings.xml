@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TapeATale</string>
+    <string name="sample_story_title">sample story title</string>
+    <string name="sample_description">sample description</string>
+</resources>
